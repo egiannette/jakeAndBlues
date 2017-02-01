@@ -27,5 +27,8 @@
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2",
     "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "require": "^2.4.20"
   }
 }
