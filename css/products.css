@@ -1,10 +1,11 @@
-.row{
-	float: left;
+.picture{
+  /*float: left;*/
   width: 33.3%;
-  padding: .75rem;
+  /*padding: .75rem;
   margin-bottom: 2rem;
-  border: 0;
+  border: 3;*/
 }
+
 .row > img,.center-block{
   margin-bottom: .75rem;
   max-width: 100%;
